@@ -1,0 +1,1 @@
+{"jobID":"011e82b3-e272-70e4-e6d8-6f45f3c816e1","spec":{"type":"policy","cause":{"Message":"1.4.2 does not work for us","User":"Steen Gundersborg \u003csgu@trackunit.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
