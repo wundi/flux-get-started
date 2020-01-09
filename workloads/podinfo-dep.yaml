@@ -10,6 +10,9 @@ metadata:
     fluxcd.io/automated: "true"
     fluxcd.io/tag.init: glob:1.4.*
     fluxcd.io/tag.podinfod: glob:1.4.*
+    fluxcd.io/locked_msg: 1.4.2 does not work for us
+    fluxcd.io/locked_user: Steen Gundersborg <sgu@trackunit.com>
+    fluxcd.io/locked: 'true'
 spec:
   strategy:
     rollingUpdate:
