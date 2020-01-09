@@ -1,0 +1,1 @@
+{"jobID":"b7a6a480-c15d-b5aa-0cfa-d029582519f0","spec":{"type":"policy","cause":{"Message":"","User":"Steen Gundersborg \u003csgu@trackunit.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
